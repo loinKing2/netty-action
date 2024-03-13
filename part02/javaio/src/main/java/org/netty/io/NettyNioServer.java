@@ -18,7 +18,7 @@ public class NettyNioServer {
     }
 
     public void serve(int port) throws Exception {
-        ByteBuf buf = Unpooled.copiedBuffer("Hi\r\n".getBytes(StandardCharsets.UTF_8));
+        final ByteBuf buf = Unpooled.copiedBuffer("Hi\r\n".getBytes(StandardCharsets.UTF_8));
         EventLoopGroup group = new NioEventLoopGroup();
         try {
             ServerBootstrap b = new ServerBootstrap();

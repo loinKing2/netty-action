@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/part01/netty-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/part02/javaio/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/part02/javaio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part03/netty-bytebuf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part03/netty-bytebuf/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

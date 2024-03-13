@@ -11,6 +11,7 @@
   <url>http://maven.apache.org</url>
     <modules>
         <module>part02/javaio</module>
+        <module>part03/netty-bytebuf</module>
     </modules>
 
     <properties>
