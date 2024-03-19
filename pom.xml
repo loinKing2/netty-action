@@ -13,6 +13,7 @@
         <module>part02/javaio</module>
         <module>part03/netty-bytebuf</module>
         <module>part04/channel-handler</module>
+        <module>part05/netty-bootstrap</module>
     </modules>
 
     <properties>
